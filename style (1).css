@@ -1,0 +1,15 @@
+* {
+    background-color: #363739;
+    color: white;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+}
+
+#textEntry {
+    font-family: 'Rubik', sans-serif;
+    width: 100vh;
+    height: 60vh;
+}
