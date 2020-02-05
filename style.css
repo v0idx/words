@@ -1,6 +1,7 @@
 * {
     background-color: #363739;
     color: white;
+        font-family: 'Rubik', sans-serif;
 }
 
 h1 {
@@ -9,7 +10,6 @@ h1 {
 }
 
 #textEntry {
-    font-family: 'Rubik', sans-serif;
     width: 100vh;
     height: 60vh;
 }
